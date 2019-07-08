@@ -12,7 +12,7 @@ LPG Leakage Detector With MQ - 6 Sensor And Arduino.
 10. Jumper Wires
 
 ## Breadboard Diagram -
-![Breadboard Diagram](https://github.com/narayanvyas/LPG-Gas-Leakage-Detector-With-MQ-6/blob/master/Breadboard%20Diagram.jpeg)
+![Breadboard Diagram](https://github.com/narayanvyas/LPG-Gas-Leakage-Detector-With-MQ-6/blob/master/Graphical%20Diagram.jpeg)
 
 ## Circuit Diagram -
 ![Circuit Diagram](https://github.com/narayanvyas/LPG-Gas-Leakage-Detector-With-MQ-6/blob/master/Circuit%20Diagram.jpeg)
